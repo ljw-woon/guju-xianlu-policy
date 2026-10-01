@@ -21,7 +21,7 @@
 
 ## 6. 문의
 개인정보와 관련한 문의는 아래 이메일로 보내 주세요.
-- 이메일: (준비 중)
+- 이메일: novapeakstudio26@gmail.com
 
 ---
 
@@ -36,4 +36,4 @@ Guju Xianlu ("the Game") does not collect any personal information.
 3. **Third parties and ads**: The Game contains no ads, analytics, or third-party login, and shares no information with third parties.
 4. **Children**: Because the Game collects no personal information, it collects none from children.
 5. **Changes**: If this policy changes, the updated policy and its effective date will be posted on this page.
-6. **Contact**: (coming soon)
+6. **Contact**: novapeakstudio26@gmail.com
